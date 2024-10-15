@@ -1,6 +1,5 @@
-import { useState } from 'react'
-import styles from './taskList.module.scss'
 import { Todo } from '../../types/todo.types'
+import styles from './taskList.module.scss'
 
 
 interface TaskListProps {
